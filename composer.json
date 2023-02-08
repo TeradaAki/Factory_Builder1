@@ -1,0 +1,14 @@
+{
+    "name": "terada/factory",
+    "autoload": {
+        "psr-4": {
+            "Terada\\Factory\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aki Terada"
+        }
+    ],
+    "require": {}
+}
